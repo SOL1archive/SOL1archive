@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamSOL1
 - 1st Year in Library and Information System at Yonsei University, Seoul, Korea
 # Interests
-- I'm mainly interested in System Softwares, AI, and Computational Biology.
+- I'm mainly interested in System Softwares, Information Systems, AI, and Computational Biology.
 - I'm also interested in Math (Mathematical logic especially), Philosophy, Linguistics and neuroscience.
 - I like to understand how things works, including computer and human brain.
 
