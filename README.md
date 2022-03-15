@@ -12,6 +12,5 @@
 
 # Schooling
 - Pyeongtaek High School
-- Computer Science at Hanyang University ERICA (for 1 year and dropped out), Ansan, Korea
 - Undergrad - Library and Information Science - Yonsei University, Seoul, Korea
   
