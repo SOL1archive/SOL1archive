@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SOL1archive
+- 👋 Hi, I’m SOL1, @SOL1archive
 - 1st Year in Library and Information System at Yonsei University, Seoul, Korea
 
 # Contact
