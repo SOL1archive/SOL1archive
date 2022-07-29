@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SOL1, @SOL1archive
-- 1st Year in Library and Information System at Yonsei University, Seoul, Korea
+- 1st Year in Library and Information Science at Yonsei University, Seoul, Korea
 
 # Contact
 email: enlightkorean@gmail.com
