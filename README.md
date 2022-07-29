@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @IamSOL1
 - 1st Year in Library and Information System at Yonsei University, Seoul, Korea
+- Contact: email: enlightkorean@gmail.com
 # Interests
 ## Main Interests
 - I'm mainly interested in **Software Architecture**, **AI** and **Data Science**.
