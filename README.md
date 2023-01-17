@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SOL1, @SOL1archive
-- 1st Year in Library and Information Science at Yonsei University, Seoul, Korea
+👋 Hi, I’m SOL1, @SOL1archive
+You can visit [My Blog](https://sol1archive.github.io/)
 
 # Schooling
 - Pyeongtaek High School
