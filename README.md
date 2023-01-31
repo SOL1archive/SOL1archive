@@ -1,6 +1,6 @@
 👋 Hi, I’m SOL1, @SOL1archive
 
-You can visit [My Blog](https://sol1archive.github.io/) for more informations!
+You can visit **[My Blog](https://sol1archive.github.io/)** for more informations!
 
 # Schooling
 - Pyeongtaek High School
