@@ -6,5 +6,5 @@ You can visit **[My Blog](https://sol1archive.github.io/)** for more information
 
 # Schooling
 - Pyeongtaek High School
-- Sophomore (Undergrad) - Library and Information Science - Yonsei University, Seoul, Korea
+- Sophomore (Undergrad) - Library and Information Science & Computer Science - Yonsei University, Seoul, Korea
   
