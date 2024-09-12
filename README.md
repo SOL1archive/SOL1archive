@@ -6,5 +6,7 @@ You can visit **[My Blog](https://sol1archive.github.io/)** for more information
 
 # Schooling
 - Pyeongtaek High School
-- Sophomore (Undergrad) - Library and Information Science & Computer Science - Yonsei University, Seoul, Korea
-  
+- Undergrad, Sophomore - Yonsei University, Seoul, Korea
+  - Major : Library & Information Science, Computer Science (Double Major)
+  - Average GPA : 4.0 / 4.3
+  - Major GPA : 4.2 / 4.3
