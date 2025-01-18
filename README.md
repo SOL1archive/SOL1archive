@@ -19,8 +19,6 @@ You can visit **[My Blog](https://sol1archive.github.io/)** for more information
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> 
 </p>
 
-- Currently on Military Service
-
 # Schooling
 - Pyeongtaek High School
 - Undergrad, Sophomore - Yonsei University, Seoul, Korea
