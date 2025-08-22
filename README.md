@@ -21,5 +21,5 @@ You can visit **[My Blog](https://sol1archive.github.io/)** for more information
 
 # Schooling
 - Pyeongtaek High School
-- Undergrad, Sophomore - Yonsei University, Seoul, Korea
+- Undergrad, Junior - Yonsei University, Seoul, Korea
   - Major : Computer Science
