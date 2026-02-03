@@ -1,6 +1,6 @@
 👋 Hi, I’m SOL1, @SOL1archive
 
-You can visit **[My Blog](https://sol1archive.github.io/)** for more informations!
+You can visit **[My Blog](https://sol1archive.github.io/)** for more information!
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
@@ -22,4 +22,4 @@ You can visit **[My Blog](https://sol1archive.github.io/)** for more information
 # Schooling
 - Pyeongtaek High School
 - Undergrad, Junior - Yonsei University, Seoul, Korea
-  - Major : Computer Science
+  - Major: Computer Science, Mathematics (Double)
